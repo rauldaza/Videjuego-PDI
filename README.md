@@ -1,0 +1,5 @@
+------- Por: Raul Daza Liñan raul.daza@udea.edu.co -----------------------
+------------ Sebastian Bonilla Cruz sebastian.bonillac@udea.edu.co -------
+------------ Estudiantes de ingenieria electronica UdeA  -----------------
+------- Curso Básico de Procesamiento de Imágenes y Visión Artificial-----
+------- V1 septiembre de 2023 --------------------------------------------
