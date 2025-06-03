@@ -83,7 +83,6 @@ video_cap = cv2.VideoCapture(0) # La camara a utilizar es la camara por defecto.
 """
 
 def draw_window(car, vehicles, lose, displacement):
-
     """
     funcion que dibuja los objetos que se mostraran en la ventana
     parametros:
